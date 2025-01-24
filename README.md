@@ -1,7 +1,7 @@
 # List Problems SE-Growth
 This is list problems for practice SE Growth Community members. Problem will delivered at Monday-Friday.
 
-## Week-1(Array, Hash, Strings):
+### Week-1(Array, Hash, Strings):
 | Day | Date | Problem |
 | ----- | ----- | ----- |
 | 1 | 13/12/2024 | https://leetcode.com/problems/find-closest-number-to-zero/description/ |
@@ -11,7 +11,7 @@ This is list problems for practice SE Growth Community members. Problem will del
 | 5 | 17/12/2024 | https://leetcode.com/problems/summary-ranges/description/ |
 | 6 | 18/12/2024 | https://leetcode.com/problems/contains-duplicate/description/ |
 
-## Week-2(2 Pointers):
+### Week-2(2 Pointers):
 | Day | Date | Problem |
 | ----- | ----- | ----- |
 | 7 | 19/12/2024 | https://leetcode.com/problems/valid-palindrome/description/ |
@@ -20,7 +20,7 @@ This is list problems for practice SE Growth Community members. Problem will del
 | 10 | 24/12/2024 | https://leetcode.com/problems/container-with-most-water/description/ |
 | 11 | 25/12/2024 | https://leetcode.com/problems/partition-list/description/ |
 
-## Week-3(Stacks):
+### Week-3(Stacks):
 | Day | Date | Problem |
 | ----- | ----- | ----- |
 | 12 | 26/12/2024 | https://leetcode.com/problems/generate-parentheses/description/ |
@@ -29,7 +29,7 @@ This is list problems for practice SE Growth Community members. Problem will del
 | 15 | 31/12/2024 | https://leetcode.com/problems/to-be-or-not-to-be/description/ |
 | 16 | 1/1/2025 | https://leetcode.com/problems/baseball-game/description/ |
 
-## Week-4(Binary Search):
+### Week-4(Binary Search):
 | Day | Date | Problem |
 | ----- | ----- | ----- |
 | 17 | 2/1/2025 | https://leetcode.com/problems/binary-search/description/ |
@@ -38,7 +38,7 @@ This is list problems for practice SE Growth Community members. Problem will del
 | 20 | 7/1/2025 | https://leetcode.com/problems/search-insert-position/description/ |
 | 21 | 8/1/2025 | https://leetcode.com/problems/koko-eating-bananas/description/ |
 
-## Week-5(Sliding Window):
+### Week-5(Sliding Window):
 | Day | Date | Problem |
 | ----- | ----- | ----- |
 | 22 | 9/1/2025 | https://leetcode.com/problems/maximum-average-subarray-i/description/ |
