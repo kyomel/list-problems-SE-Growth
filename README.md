@@ -1,7 +1,8 @@
 # List Problems SE-Growth
 This is list problems for practice SE Growth Community members. Problem will delivered at Monday-Friday.
 ## Week-1(Array, Hash, Strings):
-+ day-1(13/12/2024): https://leetcode.com/problems/find-closest-number-to-zero/description/
+| ----- | ----- | -----|
+| Day-1 | 13/12/2024 | https://leetcode.com/problems/find-closest-number-to-zero/description/ |
 + day-2(14/12/2024): https://leetcode.com/problems/valid-anagram/description/
 + day-3(15/12/2024): https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/
 + day-4(16/12/2024): https://leetcode.com/problems/longest-consecutive-sequence/description/
