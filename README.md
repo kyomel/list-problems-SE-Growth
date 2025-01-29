@@ -61,3 +61,6 @@ This is list problems for practice SE Growth Community members. Problem will del
 | ----- | ----- | ----- |
 | 32 | 23/1/2025 | https://leetcode.com/problems/invert-binary-tree/description/ |
 | 33 | 24/1/2025 | https://leetcode.com/problems/maximum-depth-of-binary-tree/description/ |
+| 34 | 27/1/2025 | https://leetcode.com/problems/path-sum/description/ |
+| 35 | 28/1/2025 | https://leetcode.com/problems/same-tree/description/ |
+| 36 | 29/1/2025 | https://leetcode.com/problems/kth-smallest-element-in-a-bst/description/ |
