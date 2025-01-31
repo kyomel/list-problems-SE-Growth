@@ -64,3 +64,9 @@ This is list problems for practice SE Growth Community members. Problem will del
 | 34 | 27/1/2025 | https://leetcode.com/problems/path-sum/description/ |
 | 35 | 28/1/2025 | https://leetcode.com/problems/same-tree/description/ |
 | 36 | 29/1/2025 | https://leetcode.com/problems/kth-smallest-element-in-a-bst/description/ |
+
+## Week-8(Trie):
+| Day | Date | Problem |
+| ----- | ----- | ----- |
+| 37 | 30/1/2025 | https://leetcode.com/problems/implement-trie-prefix-tree/description/ |
+| 38 | 31/1/2025 | https://leetcode.com/problems/count-prefix-and-suffix-pairs-i/description/ |
