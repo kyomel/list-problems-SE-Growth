@@ -70,3 +70,6 @@ This is list problems for practice SE Growth Community members. Problem will del
 | ----- | ----- | ----- |
 | 37 | 30/1/2025 | https://leetcode.com/problems/implement-trie-prefix-tree/description/ |
 | 38 | 31/1/2025 | https://leetcode.com/problems/count-prefix-and-suffix-pairs-i/description/ |
+| 39 | 3/2/2025 | https://leetcode.com/problems/maximum-strong-pair-xor-i/description/ |
+| 40 | 4/2/2025 | https://leetcode.com/problems/minimum-number-of-valid-strings-to-form-target-i/description/ |
+| 41 | 5/2/2025 | https://leetcode.com/problems/extra-characters-in-a-string/description/ |
