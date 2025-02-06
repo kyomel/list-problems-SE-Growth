@@ -73,3 +73,8 @@ This is list problems for practice SE Growth Community members. Problem will del
 | 39 | 3/2/2025 | https://leetcode.com/problems/maximum-strong-pair-xor-i/description/ |
 | 40 | 4/2/2025 | https://leetcode.com/problems/minimum-number-of-valid-strings-to-form-target-i/description/ |
 | 41 | 5/2/2025 | https://leetcode.com/problems/extra-characters-in-a-string/description/ |
+
+## Week-9(Backtracking):
+| Day | Date | Problem |
+| ----- | ----- | ----- |
+| 42 | 6/2/2025 | https://leetcode.com/problems/subsets/description/ |
