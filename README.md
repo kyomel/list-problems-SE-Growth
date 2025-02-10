@@ -78,4 +78,5 @@ This is list problems for practice SE Growth Community members. Problem will del
 | Day | Date | Problem |
 | ----- | ----- | ----- |
 | 42 | 6/2/2025 | https://leetcode.com/problems/subsets/description/ |
-| 43 | 7/2/2025 | https://leetcode.com/problems/combination-sum/ |
+| 43 | 7/2/2025 | https://leetcode.com/problems/combination-sum/description/ |
+| 44 | 10/2/2025 | https://leetcode.com/problems/permutations/description/ |
