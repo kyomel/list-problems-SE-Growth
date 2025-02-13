@@ -82,3 +82,8 @@ This is list problems for practice SE Growth Community members. Problem will del
 | 44 | 10/2/2025 | https://leetcode.com/problems/permutations/description/ |
 | 45 | 11/2/2025 | https://leetcode.com/problems/word-search/description/ |
 | 46 | 12/2/2025 | https://leetcode.com/problems/palindrome-partitioning/description/ |
+
+## Week-10(Heap/Priority Queue)
+| Day | Date | Problem |
+| ----- | ----- | ----- |
+| 47 | 13/2/2025 | https://leetcode.com/problems/kth-largest-element-in-a-stream/description/ |
