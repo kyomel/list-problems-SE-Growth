@@ -87,3 +87,4 @@ This is list problems for practice SE Growth Community members. Problem will del
 | Day | Date | Problem |
 | ----- | ----- | ----- |
 | 47 | 13/2/2025 | https://leetcode.com/problems/kth-largest-element-in-a-stream/description/ |
+| 48 | 14/2/2025 | https://leetcode.com/problems/last-stone-weight/description/ |
