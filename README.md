@@ -91,3 +91,7 @@ This is list problems for practice SE Growth Community members. Problem will del
 | 49 | 17/2/2025 | https://leetcode.com/problems/relative-ranks/description/ |
 | 50 | 18/2/2025 | https://leetcode.com/problems/kth-largest-element-in-an-array/description/ |
 | 51 | 19/2/2025 | https://leetcode.com/problems/delete-greatest-value-in-each-row/description/ |
+## Week-11(Graphs)
+| Day | Date | Problem |
+| ----- | ----- | ----- |
+| 52 | 20/2/2025 | https://leetcode.com/problems/find-the-town-judge/description/ |
