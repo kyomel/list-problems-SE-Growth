@@ -95,3 +95,4 @@ This is list problems for practice SE Growth Community members. Problem will del
 | Day | Date | Problem |
 | ----- | ----- | ----- |
 | 52 | 20/2/2025 | https://leetcode.com/problems/find-the-town-judge/description/ |
+| 53 | 21/2/2025 | https://leetcode.com/problems/number-of-islands/description/ |
