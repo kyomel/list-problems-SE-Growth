@@ -99,3 +99,8 @@ This is list problems for practice SE Growth Community members. Problem will del
 | 54 | 24/2/2025 | https://leetcode.com/problems/find-center-of-star-graph/description/ |
 | 55 | 25/2/2025 | https://leetcode.com/problems/max-area-of-island/description/ |
 | 56 | 26/2/2025 | https://leetcode.com/problems/course-schedule/description/ |
+## Week-12(Dynamic Programming)
+| Day | Date | Problem |
+| ----- | ----- | ----- |
+| 57 | 27/2/2025 | https://leetcode.com/problems/climbing-stairs/description/ |
+| 58 | 28/2/2025 | https://leetcode.com/problems/house-robber/description/ |
