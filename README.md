@@ -104,3 +104,4 @@ This is list problems for practice SE Growth Community members. Problem will del
 | ----- | ----- | ----- |
 | 57 | 27/2/2025 | https://leetcode.com/problems/climbing-stairs/description/ |
 | 58 | 28/2/2025 | https://leetcode.com/problems/house-robber/description/ |
+| 59 | 3/3/2025 | https://leetcode.com/problems/min-cost-climbing-stairs/ |
