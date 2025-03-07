@@ -111,3 +111,4 @@ This is list problems for practice SE Growth Community members. Problem will del
 | Day | Date | Problem |
 | ----- | ----- | ----- |
 | 62 | 6/3/2025 | https://leetcode.com/problems/single-number/description/ |
+| 63 | 7/3/2025 | https://leetcode.com/problems/reverse-bits/description/ |
