@@ -115,3 +115,7 @@ This is list problems for practice SE Growth Community members. Problem will del
 | 64 | 10/3/2025 | https://leetcode.com/problems/counting-bits/description/ |
 | 65 | 11/3/2025 | https://leetcode.com/problems/sum-of-two-integers/description/ |
 | 66 | 12/3/2025 | https://leetcode.com/problems/reverse-integer/description/ |
+## Week-13(Greedy)
+| Day | Date | Problem |
+| ----- | ----- | ----- |
+| 67 | 13/3/2025 | https://leetcode.com/problems/assign-cookies/description/ |
