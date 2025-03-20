@@ -123,3 +123,7 @@ This is list problems for practice SE Growth Community members. Problem will del
 | 69 | 17/3/2025 | https://leetcode.com/problems/longest-palindrome/description/ |
 | 70 | 18/3/2025 | https://leetcode.com/problems/hand-of-straights/description/ |
 | 71 | 19/3/2025 | https://leetcode.com/problems/gas-station/description/ |
+## Week-13(Math)
+| Day | Date | Problem |
+| ----- | ----- | ----- |
+| 71 | 20/3/2025 | https://leetcode.com/problems/happy-number/description/ |
