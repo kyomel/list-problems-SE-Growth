@@ -126,4 +126,4 @@ This is list problems for practice SE Growth Community members. Problem will del
 ## Week-13(Math)
 | Day | Date | Problem |
 | ----- | ----- | ----- |
-| 71 | 20/3/2025 | https://leetcode.com/problems/happy-number/description/ |
+| 72 | 20/3/2025 | https://leetcode.com/problems/happy-number/description/ |
