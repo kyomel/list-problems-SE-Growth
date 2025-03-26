@@ -130,3 +130,5 @@ This is list problems for practice SE Growth Community members. Problem will del
 | 73 | 21/3/2025 | https://leetcode.com/problems/add-digits/description/ |
 | 74 | 24/3/2025 | https://leetcode.com/problems/plus-one/description/ |
 | 75 | 25/3/2025 | https://leetcode.com/problems/detect-squares/description/ |
+| 76 | 26/3/2025 | https://leetcode.com/problems/nim-game/description/ |
+
