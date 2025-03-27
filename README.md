@@ -131,4 +131,7 @@ This is list problems for practice SE Growth Community members. Problem will del
 | 74 | 24/3/2025 | https://leetcode.com/problems/plus-one/description/ |
 | 75 | 25/3/2025 | https://leetcode.com/problems/detect-squares/description/ |
 | 76 | 26/3/2025 | https://leetcode.com/problems/nim-game/description/ |
-
+## Week-13(Random)
+| Day | Date | Problem |
+| ----- | ----- | ----- |
+| 77 | 27/3/2025 | https://leetcode.com/problems/product-of-array-except-self/description/ |
