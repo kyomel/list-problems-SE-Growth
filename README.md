@@ -137,3 +137,4 @@ This is list problems for practice SE Growth Community members. Problem will del
 | 77 | 27/3/2025 | https://leetcode.com/problems/product-of-array-except-self/description/ |
 | 78 | 28/3/2025 | https://leetcode.com/problems/daily-temperatures/description/ |
 | 79 | 31/3/2025 | https://leetcode.com/problems/car-fleet/description/ |
+| 80 | 1/4/2025 | https://leetcode.com/problems/find-the-duplicate-number/description/ |
