@@ -139,3 +139,7 @@ This is list problems for practice SE Growth Community members. Problem will del
 | 79 | 31/3/2025 | https://leetcode.com/problems/car-fleet/description/ |
 | 80 | 1/4/2025 | https://leetcode.com/problems/find-the-duplicate-number/description/ |
 | 81 | 2/4/2025 | https://leetcode.com/problems/balanced-binary-tree/description/ |
+## Week-13(Random)
+| Day | Date | Problem |
+| ----- | ----- | ----- |
+| 82 | 3/4/2025 | https://leetcode.com/problems/flood-fill/description/ |
