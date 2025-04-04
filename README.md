@@ -143,3 +143,4 @@ This is list problems for practice SE Growth Community members. Problem will del
 | Day | Date | Problem |
 | ----- | ----- | ----- |
 | 82 | 3/4/2025 | https://leetcode.com/problems/flood-fill/description/ |
+| 83 | 4/4/2025 | https://leetcode.com/problems/add-binary/description/ |
