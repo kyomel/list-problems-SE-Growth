@@ -151,3 +151,4 @@ This is list problems for practice SE Growth Community members. Problem will del
 | Day | Date | Problem |
 | ----- | ----- | ----- |
 | 87 | 10/4/2025 | https://leetcode.com/problems/basic-calculator-ii/description/ |
+| 87 | 10/4/2025 | https://leetcode.com/problems/left-and-right-sum-differences/description/ |
