@@ -91,6 +91,7 @@ This is list problems for practice SE Growth Community members. Problem will del
 | 49 | 17/2/2025 | https://leetcode.com/problems/relative-ranks/description/ |
 | 50 | 18/2/2025 | https://leetcode.com/problems/kth-largest-element-in-an-array/description/ |
 | 51 | 19/2/2025 | https://leetcode.com/problems/delete-greatest-value-in-each-row/description/ |
+
 ## Week-11(Graphs)
 | Day | Date | Problem |
 | ----- | ----- | ----- |
@@ -99,6 +100,7 @@ This is list problems for practice SE Growth Community members. Problem will del
 | 54 | 24/2/2025 | https://leetcode.com/problems/find-center-of-star-graph/description/ |
 | 55 | 25/2/2025 | https://leetcode.com/problems/max-area-of-island/description/ |
 | 56 | 26/2/2025 | https://leetcode.com/problems/course-schedule/description/ |
+
 ## Week-12(Dynamic Programming)
 | Day | Date | Problem |
 | ----- | ----- | ----- |
@@ -107,7 +109,8 @@ This is list problems for practice SE Growth Community members. Problem will del
 | 59 | 3/3/2025 | https://leetcode.com/problems/min-cost-climbing-stairs/ |
 | 60 | 4/3/2025 | https://leetcode.com/problems/maximum-repeating-substring/description/ |
 | 61 | 5/3/2025 | https://leetcode.com/problems/divisor-game/description/ |
-## Week-12(Bit Manipulation)
+
+## Week-13(Bit Manipulation)
 | Day | Date | Problem |
 | ----- | ----- | ----- |
 | 62 | 6/3/2025 | https://leetcode.com/problems/single-number/description/ |
@@ -115,7 +118,8 @@ This is list problems for practice SE Growth Community members. Problem will del
 | 64 | 10/3/2025 | https://leetcode.com/problems/counting-bits/description/ |
 | 65 | 11/3/2025 | https://leetcode.com/problems/sum-of-two-integers/description/ |
 | 66 | 12/3/2025 | https://leetcode.com/problems/reverse-integer/description/ |
-## Week-13(Greedy)
+
+## Week-14(Greedy)
 | Day | Date | Problem |
 | ----- | ----- | ----- |
 | 67 | 13/3/2025 | https://leetcode.com/problems/assign-cookies/description/ |
@@ -123,7 +127,8 @@ This is list problems for practice SE Growth Community members. Problem will del
 | 69 | 17/3/2025 | https://leetcode.com/problems/longest-palindrome/description/ |
 | 70 | 18/3/2025 | https://leetcode.com/problems/hand-of-straights/description/ |
 | 71 | 19/3/2025 | https://leetcode.com/problems/gas-station/description/ |
-## Week-13(Math)
+
+## Week-15(Math)
 | Day | Date | Problem |
 | ----- | ----- | ----- |
 | 72 | 20/3/2025 | https://leetcode.com/problems/happy-number/description/ |
@@ -131,7 +136,8 @@ This is list problems for practice SE Growth Community members. Problem will del
 | 74 | 24/3/2025 | https://leetcode.com/problems/plus-one/description/ |
 | 75 | 25/3/2025 | https://leetcode.com/problems/detect-squares/description/ |
 | 76 | 26/3/2025 | https://leetcode.com/problems/nim-game/description/ |
-## Week-13(Random)
+
+## Week-16(Random)
 | Day | Date | Problem |
 | ----- | ----- | ----- |
 | 77 | 27/3/2025 | https://leetcode.com/problems/product-of-array-except-self/description/ |
@@ -139,7 +145,8 @@ This is list problems for practice SE Growth Community members. Problem will del
 | 79 | 31/3/2025 | https://leetcode.com/problems/car-fleet/description/ |
 | 80 | 1/4/2025 | https://leetcode.com/problems/find-the-duplicate-number/description/ |
 | 81 | 2/4/2025 | https://leetcode.com/problems/balanced-binary-tree/description/ |
-## Week-13(Random)
+
+## Week-17(Random)
 | Day | Date | Problem |
 | ----- | ----- | ----- |
 | 82 | 3/4/2025 | https://leetcode.com/problems/flood-fill/description/ |
@@ -147,7 +154,8 @@ This is list problems for practice SE Growth Community members. Problem will del
 | 84 | 7/4/2025 | https://leetcode.com/problems/network-delay-time/description/ |
 | 85 | 8/4/2025 | https://leetcode.com/problems/powx-n/description/ |
 | 86 | 9/4/2025 | https://leetcode.com/problems/subarray-sums-divisible-by-k/description/ |
-## Week-14(Random)
+
+## Week-18(Random)
 | Day | Date | Problem |
 | ----- | ----- | ----- |
 | 87 | 10/4/2025 | https://leetcode.com/problems/basic-calculator-ii/description/ |
@@ -155,7 +163,8 @@ This is list problems for practice SE Growth Community members. Problem will del
 | 89 | 14/4/2025 | https://leetcode.com/problems/find-the-middle-index-in-array/description/ |
 | 90 | 15/4/2025 | https://leetcode.com/problems/maximum-number-of-balloons/description/ |
 | 91 | 16/4/2025 | https://leetcode.com/problems/unique-paths/description/ |
-## Week-15(Random)
+
+## Week-19(Random)
 | Day | Date | Problem |
 | ----- | ----- | ----- |
 | 92 | 17/4/2025 | https://leetcode.com/problems/fibonacci-number/description/ |
