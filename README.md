@@ -170,3 +170,4 @@ This is list problems for practice SE Growth Community members. Problem will del
 | 92 | 17/4/2025 | https://leetcode.com/problems/fibonacci-number/description/ |
 | 93 | 18/4/2025 | https://leetcode.com/problems/coin-change/description/ |
 | 94 | 21/4/2025 | https://leetcode.com/problems/zigzag-conversion/description/ |
+| 95 | 22/4/2025 | https://leetcode.com/problems/isomorphic-strings/description/ |
