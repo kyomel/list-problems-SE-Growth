@@ -172,3 +172,8 @@ This is list problems for practice SE Growth Community members. Problem will del
 | 94 | 21/4/2025 | https://leetcode.com/problems/zigzag-conversion/description/ |
 | 95 | 22/4/2025 | https://leetcode.com/problems/isomorphic-strings/description/ |
 | 96 | 23/4/2025 | https://leetcode.com/problems/count-complete-tree-nodes/description/ |
+
+## Week-20(Random)
+| Day | Date | Problem |
+| ----- | ----- | ----- |
+| 97 | 24/4/2025 | https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/description/ |
