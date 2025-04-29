@@ -179,3 +179,4 @@ This is list problems for practice SE Growth Community members. Problem will del
 | 97 | 24/4/2025 | https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/description/ |
 | 98 | 25/4/2025 | https://leetcode.com/problems/average-of-levels-in-binary-tree/description/ |
 | 99 | 28/4/2025 | https://leetcode.com/problems/surrounded-regions/description/ |
+| 100 | 29/4/2025 | https://leetcode.com/problems/serialize-and-deserialize-binary-tree/description/ |
