@@ -181,3 +181,8 @@ This is list problems for practice SE Growth Community members. Problem will del
 | 99 | 28/4/2025 | https://leetcode.com/problems/surrounded-regions/description/ |
 | 100 | 29/4/2025 | https://leetcode.com/problems/serialize-and-deserialize-binary-tree/description/ |
 | 101 | 30/4/2025 | https://leetcode.com/problems/diameter-of-binary-tree/description/ |
+
+## Week-21(Random)
+| Day | Date | Problem |
+| ----- | ----- | ----- |
+| 102 | 1/5/2025 | https://www.hackerrank.com/challenges/append-and-delete/problem |
