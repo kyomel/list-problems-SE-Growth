@@ -189,3 +189,4 @@ This is list problems for practice SE Growth Community members. Problem will del
 | 103 | 2/5/2025 | https://www.hackerrank.com/challenges/equality-in-a-array/problem |
 | 104 | 5/5/2025 | https://www.hackerrank.com/challenges/picking-numbers/problem |
 | 105 | 6/5/2025 | https://www.hackerrank.com/challenges/array-left-rotation/problem |
+| 106 | 7/5/2025 | https://www.hackerrank.com/challenges/lilys-homework/problem |
