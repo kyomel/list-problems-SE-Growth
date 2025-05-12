@@ -195,3 +195,5 @@ This is list problems for practice SE Growth Community members. Problem will del
 | Day | Date | Problem |
 | ----- | ----- | ----- |
 | 107 | 8/5/2025 | https://www.hackerrank.com/challenges/camelcase/problem |
+| 108 | 10/5/2025 | https://www.hackerrank.com/challenges/electronics-shop/problem |
+| 109 | 12/5/2025 | https://www.hackerrank.com/challenges/strange-advertising/problem |
