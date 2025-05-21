@@ -1,0 +1,7 @@
+This is solutions for list problems for SE-Growth Community members.
+
+To contribute the solutions, please create a pull request to this repository.
+format: day-xx.file-name-language
+example: day-01.py
+
+don't forget add the file comment about time and space complexity. More better have comment step by step to solved the code.
