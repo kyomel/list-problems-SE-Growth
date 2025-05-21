@@ -207,4 +207,4 @@ This is list problems for practice SE Growth Community members. Problem will del
 | 113 | 16/5/2025 | https://www.hackerrank.com/challenges/flatland-space-stations/problem |
 | 114 | 19/5/2025 | https://www.hackerrank.com/challenges/compare-the-triplets/problem |
 | 115 | 20/5/2025 | https://www.hackerrank.com/challenges/handshake/problem |
-| 116 | 20/5/2025 | https://www.hackerrank.com/challenges/restaurant/problem |
+| 116 | 21/5/2025 | https://www.hackerrank.com/challenges/restaurant/problem |
