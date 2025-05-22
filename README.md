@@ -249,3 +249,9 @@ Please refer to the `read.txt` file in each folder for specific instructions on 
 | 114 | 19/5/2025 | https://www.hackerrank.com/challenges/compare-the-triplets/problem     |
 | 115 | 20/5/2025 | https://www.hackerrank.com/challenges/handshake/problem                |
 | 116 | 21/5/2025 | https://www.hackerrank.com/challenges/restaurant/problem               |
+
+## Week-24(Random)
+
+| Day | Date      | Problem                                                                |
+| --- | --------- | ---------------------------------------------------------------------- |
+| 117 | 22/5/2025 | https://www.hackerrank.com/challenges/grading/problem |
