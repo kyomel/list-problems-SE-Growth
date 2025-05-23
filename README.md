@@ -256,3 +256,4 @@ Please refer to the `read.txt` file in each folder for specific instructions on 
 | Day | Date      | Problem                                               |
 | --- | --------- | ----------------------------------------------------- |
 | 117 | 22/5/2025 | https://www.hackerrank.com/challenges/grading/problem |
+| 118 | 23/5/2025 | https://www.hackerrank.com/challenges/cats-and-a-mouse/problem |
