@@ -10,6 +10,7 @@ You can find solutions for the problems in the following language-specific folde
 - [C++](solutions/c++)
 - [C#](solutions/c#)
 - [Go](solutions/go)
+- [Java](solutions/java)
 - [JavaScript](solutions/javascript)
 - [Kotlin](solutions/kotlin)
 - [PHP](solutions/php)
@@ -252,6 +253,6 @@ Please refer to the `read.txt` file in each folder for specific instructions on 
 
 ## Week-24(Random)
 
-| Day | Date      | Problem                                                                |
-| --- | --------- | ---------------------------------------------------------------------- |
+| Day | Date      | Problem                                               |
+| --- | --------- | ----------------------------------------------------- |
 | 117 | 22/5/2025 | https://www.hackerrank.com/challenges/grading/problem |
