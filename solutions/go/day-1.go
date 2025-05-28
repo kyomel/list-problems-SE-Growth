@@ -1,3 +1,7 @@
+// Kyomel Solution
+// Time Complexity: O(n)
+// Space Complexity: O(1)
+
 func findClosestNumber(nums []int) int {
 	if len(nums) == 0 {
 		return 0
