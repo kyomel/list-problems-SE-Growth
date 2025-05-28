@@ -259,3 +259,4 @@ Please refer to the `read.txt` file in each folder for specific instructions on 
 | 118 | 23/5/2025 | https://www.hackerrank.com/challenges/cats-and-a-mouse/problem |
 | 119 | 26/5/2025 | https://www.hackerrank.com/challenges/minimum-distances/problem |
 | 120 | 27/5/2025 | https://www.hackerrank.com/challenges/big-sorting/problem |
+| 120 | 27/5/2025 | https://www.hackerrank.com/challenges/binary-search-tree-lowest-common-ancestor/problem |
