@@ -260,3 +260,9 @@ Please refer to the `read.txt` file in each folder for specific instructions on 
 | 119 | 26/5/2025 | https://www.hackerrank.com/challenges/minimum-distances/problem |
 | 120 | 27/5/2025 | https://www.hackerrank.com/challenges/big-sorting/problem |
 | 121 | 28/5/2025 | https://www.hackerrank.com/challenges/binary-search-tree-lowest-common-ancestor/problem |
+
+## Week-25(Random)
+
+| Day | Date      | Problem                                               |
+| --- | --------- | ----------------------------------------------------- |
+| 122 | 29/5/2025 | https://www.hackerrank.com/challenges/filling-jars/problem |
