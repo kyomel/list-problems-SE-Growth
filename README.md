@@ -267,3 +267,4 @@ Please refer to the `read.txt` file in each folder for specific instructions on 
 | --- | --------- | ----------------------------------------------------- |
 | 122 | 29/5/2025 | https://www.hackerrank.com/challenges/filling-jars/problem |
 | 123 | 30/5/2025 | https://www.hackerrank.com/challenges/bigger-is-greater/problem |
+| 124 | 2/6/2025 | https://www.hackerrank.com/challenges/runningtime/problem |
