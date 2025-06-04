@@ -269,3 +269,4 @@ Please refer to the `read.txt` file in each folder for specific instructions on 
 | 123 | 30/5/2025 | https://www.hackerrank.com/challenges/bigger-is-greater/problem |
 | 124 | 2/6/2025 | https://www.hackerrank.com/challenges/runningtime/problem |
 | 125 | 3/6/2025 | https://www.hackerrank.com/challenges/harry-potter-and-the-floating-rocks/problem |
+| 126 | 4/6/2025 | https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list-in-reverse/problem |
