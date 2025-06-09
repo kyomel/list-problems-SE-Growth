@@ -277,3 +277,4 @@ Please refer to the `read.txt` file in each folder for specific instructions on 
 | --- | --------- | ----------------------------------------------------- |
 | 127 | 5/6/2025 | https://www.hackerrank.com/challenges/is-fibo/problem |
 | 128 | 6/6/2025 | https://www.hackerrank.com/challenges/richie-rich/problem |
+| 129 | 9/6/2025 | https://www.hackerrank.com/challenges/staircase/problem |
