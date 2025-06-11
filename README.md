@@ -279,3 +279,4 @@ Please refer to the `read.txt` file in each folder for specific instructions on 
 | 128 | 6/6/2025 | https://www.hackerrank.com/challenges/richie-rich/problem |
 | 129 | 9/6/2025 | https://www.hackerrank.com/challenges/staircase/problem |
 | 130 | 10/6/2025 | https://www.hackerrank.com/challenges/apple-and-orange/problem |
+| 131 | 11/6/2025 | https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem |
