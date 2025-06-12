@@ -280,3 +280,9 @@ Please refer to the `read.txt` file in each folder for specific instructions on 
 | 129 | 9/6/2025 | https://www.hackerrank.com/challenges/staircase/problem |
 | 130 | 10/6/2025 | https://www.hackerrank.com/challenges/apple-and-orange/problem |
 | 131 | 11/6/2025 | https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem |
+
+## Week-27(Random)
+
+| Day | Date      | Problem                                               |
+| --- | --------- | ----------------------------------------------------- |
+| 127 | 5/6/2025 | https://www.hackerrank.com/challenges/time-conversion/problem |
