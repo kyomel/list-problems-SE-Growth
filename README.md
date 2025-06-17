@@ -288,3 +288,4 @@ Please refer to the `read.txt` file in each folder for specific instructions on 
 | 132 | 12/6/2025 | https://www.hackerrank.com/challenges/time-conversion/problem |
 | 133 | 13/6/2025 | https://www.hackerrank.com/challenges/drawing-book/problem |
 | 134 | 16/6/2025 | https://www.hackerrank.com/challenges/migratory-birds/problem |
+| 135 | 17/6/2025 | https://www.hackerrank.com/challenges/sock-merchant/problem |
