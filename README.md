@@ -289,3 +289,4 @@ Please refer to the `read.txt` file in each folder for specific instructions on 
 | 133 | 13/6/2025 | https://www.hackerrank.com/challenges/drawing-book/problem |
 | 134 | 16/6/2025 | https://www.hackerrank.com/challenges/migratory-birds/problem |
 | 135 | 17/6/2025 | https://www.hackerrank.com/challenges/sock-merchant/problem |
+| 136 | 18/6/2025 | https://www.hackerrank.com/challenges/beautiful-days-at-the-movies/problem |
