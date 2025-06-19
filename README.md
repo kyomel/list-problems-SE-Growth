@@ -290,3 +290,9 @@ Please refer to the `read.txt` file in each folder for specific instructions on 
 | 134 | 16/6/2025 | https://www.hackerrank.com/challenges/migratory-birds/problem |
 | 135 | 17/6/2025 | https://www.hackerrank.com/challenges/sock-merchant/problem |
 | 136 | 18/6/2025 | https://www.hackerrank.com/challenges/beautiful-days-at-the-movies/problem |
+
+## Week-28(Random)
+
+| Day | Date      | Problem                                               |
+| --- | --------- | ----------------------------------------------------- |
+| 137 | 19/6/2025 | https://www.hackerrank.com/challenges/beautiful-pairs/problem |
