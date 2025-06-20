@@ -296,3 +296,4 @@ Please refer to the `read.txt` file in each folder for specific instructions on 
 | Day | Date      | Problem                                               |
 | --- | --------- | ----------------------------------------------------- |
 | 137 | 19/6/2025 | https://www.hackerrank.com/challenges/beautiful-pairs/problem |
+| 138 | 20/6/2025 | https://www.hackerrank.com/challenges/fair-rations/problem |
