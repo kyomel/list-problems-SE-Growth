@@ -307,3 +307,4 @@ Please refer to the `read.txt` file in each folder for specific instructions on 
 | --- | --------- | ----------------------------------------------------- |
 | 142 | 26/6/2025 | https://www.hackerrank.com/challenges/beautiful-binary-string/problem |
 | 143 | 27/6/2025 | https://www.hackerrank.com/challenges/largest-permutation/problem |
+| 144 | 30/6/2025 | https://www.hackerrank.com/challenges/gem-stones/problem |
