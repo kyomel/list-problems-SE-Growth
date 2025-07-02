@@ -309,3 +309,4 @@ Please refer to the `read.txt` file in each folder for specific instructions on 
 | 143 | 27/6/2025 | https://www.hackerrank.com/challenges/largest-permutation/problem |
 | 144 | 30/6/2025 | https://www.hackerrank.com/challenges/gem-stones/problem |
 | 145 | 1/7/2025 | https://www.hackerrank.com/challenges/beautiful-triplets/problem |
+| 146 | 2/7/2025 | https://www.hackerrank.com/challenges/encryption/problem |
