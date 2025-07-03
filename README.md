@@ -310,3 +310,9 @@ Please refer to the `read.txt` file in each folder for specific instructions on 
 | 144 | 30/6/2025 | https://www.hackerrank.com/challenges/gem-stones/problem |
 | 145 | 1/7/2025 | https://www.hackerrank.com/challenges/beautiful-triplets/problem |
 | 146 | 2/7/2025 | https://www.hackerrank.com/challenges/encryption/problem |
+
+## Week-30(Random)
+
+| Day | Date      | Problem                                               |
+| --- | --------- | ----------------------------------------------------- |
+| 147 | 3/7/2025 | https://www.hackerrank.com/challenges/larrys-array/problem |
