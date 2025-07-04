@@ -316,3 +316,4 @@ Please refer to the `read.txt` file in each folder for specific instructions on 
 | Day | Date      | Problem                                               |
 | --- | --------- | ----------------------------------------------------- |
 | 147 | 3/7/2025 | https://www.hackerrank.com/challenges/larrys-array/problem |
+| 148 | 4/7/2025 | https://www.hackerrank.com/challenges/pairs/problem |
