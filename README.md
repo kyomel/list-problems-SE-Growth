@@ -320,3 +320,9 @@ Please refer to the `read.txt` file in each folder for specific instructions on 
 | 149 | 7/7/2025 | https://www.hackerrank.com/challenges/the-grid-search/problem |
 | 150 | 8/7/2025 | https://www.hackerrank.com/challenges/synchronous-shopping/problem |
 | 151 | 9/7/2025 | https://leetcode.com/problems/island-perimeter/description/ |
+
+## Week-30(Random)
+
+| Day | Date      | Problem                                               |
+| --- | --------- | ----------------------------------------------------- |
+| 152 | 10/7/2025 | https://leetcode.com/problems/minimum-cost-for-tickets/description/ |
