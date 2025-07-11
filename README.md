@@ -326,3 +326,4 @@ Please refer to the `read.txt` file in each folder for specific instructions on 
 | Day | Date      | Problem                                               |
 | --- | --------- | ----------------------------------------------------- |
 | 152 | 10/7/2025 | https://leetcode.com/problems/minimum-cost-for-tickets/description/ |
+| 153 | 11/7/2025 | https://leetcode.com/problems/power-of-two/description/ |
