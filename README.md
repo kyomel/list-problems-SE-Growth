@@ -328,3 +328,4 @@ Please refer to the `read.txt` file in each folder for specific instructions on 
 | 152 | 10/7/2025 | https://leetcode.com/problems/minimum-cost-for-tickets/description/ |
 | 153 | 14/7/2025 | https://leetcode.com/problems/move-zeroes/description/ |
 | 154 | 15/7/2025 | https://leetcode.com/problems/student-attendance-record-i/description/ |
+| 155 | 16/7/2025 | https://leetcode.com/problems/base-7/description/ |
