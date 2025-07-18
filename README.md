@@ -330,3 +330,9 @@ Please refer to the `read.txt` file in each folder for specific instructions on 
 | 154 | 15/7/2025 | https://leetcode.com/problems/student-attendance-record-i/description/ |
 | 155 | 16/7/2025 | https://leetcode.com/problems/base-7/description/ |
 | 156 | 17/7/2025 | https://leetcode.com/problems/distribute-candies/description/ |
+
+## Week-32(Random)
+
+| Day | Date      | Problem                                               |
+| --- | --------- | ----------------------------------------------------- |
+| 157 | 18/7/2025 | https://leetcode.com/problems/goat-latin/description/ |
