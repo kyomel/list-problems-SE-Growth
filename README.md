@@ -337,3 +337,4 @@ Please refer to the `read.txt` file in each folder for specific instructions on 
 | --- | --------- | ----------------------------------------------------- |
 | 157 | 18/7/2025 | https://leetcode.com/problems/goat-latin/description/ |
 | 158 | 21/7/2025 | https://leetcode.com/problems/binary-gap/description/ |
+| 159 | 22/7/2025 | https://leetcode.com/problems/detect-capital/description/ |
