@@ -340,3 +340,9 @@ Please refer to the `read.txt` file in each folder for specific instructions on 
 | 159 | 22/7/2025 | https://leetcode.com/problems/detect-capital/description/ |
 | 160 | 23/7/2025 | https://leetcode.com/problems/find-the-difference/description/ |
 | 161 | 24/7/2025 | https://leetcode.com/problems/reverse-only-letters/description/ |
+
+## Week-33(Random)
+
+| Day | Date      | Problem                                               |
+| --- | --------- | ----------------------------------------------------- |
+| 162 | 25/7/2025 | https://leetcode.com/problems/swap-salary/description/ |
