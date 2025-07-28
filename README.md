@@ -346,3 +346,4 @@ Please refer to the `read.txt` file in each folder for specific instructions on 
 | Day | Date      | Problem                                               |
 | --- | --------- | ----------------------------------------------------- |
 | 162 | 25/7/2025 | https://leetcode.com/problems/swap-salary/description/ |
+| 163 | 28/7/2025 | https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/description/ |
