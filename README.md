@@ -349,3 +349,4 @@ Please refer to the `read.txt` file in each folder for specific instructions on 
 | 163 | 28/7/2025 | https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/description/ |
 | 164 | 29/7/2025 | https://leetcode.com/problems/interleaving-string/description/ |
 | 165 | 30/7/2025 | https://leetcode.com/problems/count-primes/description/ |
+| 166 | 31/7/2025 | https://leetcode.com/problems/arranging-coins/description/ |
