@@ -350,3 +350,9 @@ Please refer to the `read.txt` file in each folder for specific instructions on 
 | 164 | 29/7/2025 | https://leetcode.com/problems/interleaving-string/description/ |
 | 165 | 30/7/2025 | https://leetcode.com/problems/count-primes/description/ |
 | 166 | 31/7/2025 | https://leetcode.com/problems/arranging-coins/description/ |
+
+## Week-34(Random)
+
+| Day | Date      | Problem                                               |
+| --- | --------- | ----------------------------------------------------- |
+| 167 | 1/8/2025 | https://leetcode.com/problems/unique-email-addresses/description/ |
