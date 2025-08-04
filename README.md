@@ -356,3 +356,4 @@ Please refer to the `read.txt` file in each folder for specific instructions on 
 | Day | Date      | Problem                                               |
 | --- | --------- | ----------------------------------------------------- |
 | 167 | 1/8/2025 | https://leetcode.com/problems/unique-email-addresses/description/ |
+| 168 | 4/8/2025 | https://leetcode.com/problems/fruit-into-baskets/description/ |
