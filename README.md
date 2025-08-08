@@ -360,3 +360,9 @@ Please refer to the `read.txt` file in each folder for specific instructions on 
 | 169 | 5/8/2025 | https://leetcode.com/problems/lru-cache/description/ |
 | 170 | 6/8/2025 | https://leetcode.com/problems/number-of-equivalent-domino-pairs/description/ |
 | 171 | 7/8/2025 | https://leetcode.com/problems/divide-intervals-into-minimum-number-of-groups/description/ |
+
+## Week-35(Random)
+
+| Day | Date      | Problem                                               |
+| --- | --------- | ----------------------------------------------------- |
+| 172 | 8/8/2025 | https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/description/ |
