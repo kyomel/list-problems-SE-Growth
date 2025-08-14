@@ -369,3 +369,4 @@ Please refer to the `read.txt` file in each folder for specific instructions on 
 | 173 | 11/8/2025 | https://leetcode.com/problems/insertion-sort-list/description/ |
 | 174 | 12/8/2025 | https://leetcode.com/problems/prime-arrangements/description/ |
 | 175 | 13/8/2025 | https://leetcode.com/problems/lucky-numbers-in-a-matrix/description/ |
+| 176 | 14/8/2025 | https://leetcode.com/problems/to-lower-case/description/ |
