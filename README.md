@@ -370,3 +370,9 @@ Please refer to the `read.txt` file in each folder for specific instructions on 
 | 174 | 12/8/2025 | https://leetcode.com/problems/prime-arrangements/description/ |
 | 175 | 13/8/2025 | https://leetcode.com/problems/lucky-numbers-in-a-matrix/description/ |
 | 176 | 14/8/2025 | https://leetcode.com/problems/to-lower-case/description/ |
+
+## Week-36(Random)
+
+| Day | Date      | Problem                                               |
+| --- | --------- | ----------------------------------------------------- |
+| 177 | 15/8/2025 | https://leetcode.com/problems/maximum-gap/description/ |
