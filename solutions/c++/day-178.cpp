@@ -19,7 +19,7 @@ public:
                         }
                         sum += img[k][l];
                     }
-                }T
+                }
                 res[i][j] = sum/count;
             }
         }
