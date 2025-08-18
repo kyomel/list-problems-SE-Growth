@@ -376,3 +376,4 @@ Please refer to the `read.txt` file in each folder for specific instructions on 
 | Day | Date      | Problem                                               |
 | --- | --------- | ----------------------------------------------------- |
 | 177 | 15/8/2025 | https://leetcode.com/problems/maximum-gap/description/ |
+| 178 | 18/8/2025 | https://leetcode.com/problems/image-smoother/description/ |
