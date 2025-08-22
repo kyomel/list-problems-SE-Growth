@@ -380,3 +380,9 @@ Please refer to the `read.txt` file in each folder for specific instructions on 
 | 179 | 19/8/2025 | https://leetcode.com/problems/additive-number/description/ |
 | 180 | 20/8/2025 | https://leetcode.com/problems/di-string-match/description/ |
 | 181 | 21/8/2025 | https://leetcode.com/problems/defanging-an-ip-address/description/ |
+
+## Week-37(Random)
+
+| Day | Date      | Problem                                               |
+| --- | --------- | ----------------------------------------------------- |
+| 182 | 22/8/2025 | https://leetcode.com/problems/count-of-range-sum/description/ |
