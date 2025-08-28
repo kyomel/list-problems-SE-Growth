@@ -389,3 +389,4 @@ Please refer to the `read.txt` file in each folder for specific instructions on 
 | 183 | 25/8/2025 | https://leetcode.com/problems/height-checker/description/ |
 | 184 | 26/8/2025 | https://leetcode.com/problems/h-index/description/ |
 | 185 | 27/8/2025 | https://leetcode.com/problems/finding-3-digit-even-numbers/description/ |
+| 186 | 28/8/2025 | https://leetcode.com/problems/surface-area-of-3d-shapes/description/ |
