@@ -390,3 +390,9 @@ Please refer to the `read.txt` file in each folder for specific instructions on 
 | 184 | 26/8/2025 | https://leetcode.com/problems/h-index/description/ |
 | 185 | 27/8/2025 | https://leetcode.com/problems/finding-3-digit-even-numbers/description/ |
 | 186 | 28/8/2025 | https://leetcode.com/problems/surface-area-of-3d-shapes/description/ |
+
+## Week-38(Random)
+
+| Day | Date      | Problem                                               |
+| --- | --------- | ----------------------------------------------------- |
+| 187 | 29/8/2025 | https://leetcode.com/problems/duplicate-zeros/description/ |
