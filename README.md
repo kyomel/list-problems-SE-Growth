@@ -396,3 +396,4 @@ Please refer to the `read.txt` file in each folder for specific instructions on 
 | Day | Date      | Problem                                               |
 | --- | --------- | ----------------------------------------------------- |
 | 187 | 29/8/2025 | https://leetcode.com/problems/duplicate-zeros/description/ |
+| 188 | 1/9/2025 | https://leetcode.com/problems/triangle/description/ |
