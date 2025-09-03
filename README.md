@@ -398,3 +398,4 @@ Please refer to the `read.txt` file in each folder for specific instructions on 
 | 187 | 29/8/2025 | https://leetcode.com/problems/duplicate-zeros/description/ |
 | 188 | 1/9/2025 | https://leetcode.com/problems/triangle/description/ |
 | 189 | 2/9/2025 | https://leetcode.com/problems/long-pressed-name/description/ |
+| 190 | 3/9/2025 | https://leetcode.com/problems/keyboard-row/description/ |
