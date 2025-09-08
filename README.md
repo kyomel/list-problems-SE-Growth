@@ -406,3 +406,4 @@ Please refer to the `read.txt` file in each folder for specific instructions on 
 | Day | Date      | Problem                                               |
 | --- | --------- | ----------------------------------------------------- |
 | 192 | 5/9/2025 | https://leetcode.com/problems/unique-morse-code-words/description/ |
+| 193 | 8/9/2025 | https://leetcode.com/problems/set-mismatch/description/ |
