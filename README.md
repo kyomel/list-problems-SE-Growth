@@ -408,3 +408,4 @@ Please refer to the `read.txt` file in each folder for specific instructions on 
 | 192 | 5/9/2025 | https://leetcode.com/problems/unique-morse-code-words/description/ |
 | 193 | 8/9/2025 | https://leetcode.com/problems/set-mismatch/description/ |
 | 194 | 9/9/2025 | https://leetcode.com/problems/customer-placing-the-largest-number-of-orders/description/ |
+| 195 | 10/9/2025 | https://leetcode.com/problems/design-twitter/description/ |
