@@ -410,3 +410,9 @@ Please refer to the `read.txt` file in each folder for specific instructions on 
 | 194 | 9/9/2025 | https://leetcode.com/problems/customer-placing-the-largest-number-of-orders/description/ |
 | 195 | 10/9/2025 | https://leetcode.com/problems/design-twitter/description/ |
 | 196 | 11/9/2025 | https://leetcode.com/problems/1-bit-and-2-bit-characters/description/ |
+
+## Week-40(Random)
+
+| Day | Date      | Problem                                               |
+| --- | --------- | ----------------------------------------------------- |
+| 197 | 12/9/2025 | https://leetcode.com/problems/soup-servings/description/ |
