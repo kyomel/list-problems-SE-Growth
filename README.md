@@ -416,4 +416,5 @@ Please refer to the `read.txt` file in each folder for specific instructions on 
 | Day | Date      | Problem                                               |
 | --- | --------- | ----------------------------------------------------- |
 | 197 | 12/9/2025 | https://leetcode.com/problems/soup-servings/description/ |
-| 198 | 15/9/2025 | https://leetcode.com/problems/toeplitz-matrix |
+| 198 | 15/9/2025 | https://leetcode.com/problems/toeplitz-matrix/description/ |
+| 199 | 16/9/2025 | https://leetcode.com/problems/find-lucky-integer-in-an-array/description/ |
