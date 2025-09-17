@@ -418,3 +418,4 @@ Please refer to the `read.txt` file in each folder for specific instructions on 
 | 197 | 12/9/2025 | https://leetcode.com/problems/soup-servings/description/ |
 | 198 | 15/9/2025 | https://leetcode.com/problems/toeplitz-matrix/description/ |
 | 199 | 16/9/2025 | https://leetcode.com/problems/find-lucky-integer-in-an-array/description/ |
+| 200 | 17/9/2025 | https://leetcode.com/problems/create-maximum-number/description/ |
