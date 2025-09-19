@@ -420,3 +420,9 @@ Please refer to the `read.txt` file in each folder for specific instructions on 
 | 199 | 16/9/2025 | https://leetcode.com/problems/find-lucky-integer-in-an-array/description/ |
 | 200 | 17/9/2025 | https://leetcode.com/problems/create-maximum-number/description/ |
 | 201 | 18/9/2025 | https://leetcode.com/problems/verifying-an-alien-dictionary/description/ |
+
+## Week-41(Random)
+
+| Day | Date      | Problem                                               |
+| --- | --------- | ----------------------------------------------------- |
+| 202 | 19/9/2025 | https://leetcode.com/problems/reformat-the-string/description/ |
