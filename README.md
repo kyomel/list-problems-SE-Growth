@@ -427,3 +427,4 @@ Please refer to the `read.txt` file in each folder for specific instructions on 
 | --- | --------- | ----------------------------------------------------- |
 | 202 | 19/9/2025 | https://leetcode.com/problems/reformat-the-string/description/ |
 | 203 | 22/9/2025 | https://leetcode.com/problems/buddy-strings/description/ |
+| 204 | 23/9/2025 | https://leetcode.com/problems/robot-return-to-origin/description/ |
