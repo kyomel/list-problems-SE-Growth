@@ -430,3 +430,9 @@ Please refer to the `read.txt` file in each folder for specific instructions on 
 | 204 | 23/9/2025 | https://leetcode.com/problems/robot-return-to-origin/description/ |
 | 205 | 24/9/2025 | https://leetcode.com/problems/symmetric-tree/description/ |
 | 206 | 25/9/2025 | https://leetcode.com/problems/maximum-score-after-splitting-a-string/description/ |
+
+## Week-42(Random)
+
+| Day | Date      | Problem                                               |
+| --- | --------- | ----------------------------------------------------- |
+| 207 | 26/9/2025 | https://leetcode.com/problems/design-parking-system/description/ |
