@@ -439,3 +439,4 @@ Please refer to the `read.txt` file in each folder for specific instructions on 
 | 208 | 29/9/2025 | https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/description/ |
 | 209 | 30/9/2025 | https://leetcode.com/problems/check-if-the-sentence-is-pangram/description/ |
 | 210 | 1/10/2025 | https://leetcode.com/problems/slowest-key/description/ |
+| 211 | 2/10/2025 | https://leetcode.com/problems/last-visited-integers/description/ |
