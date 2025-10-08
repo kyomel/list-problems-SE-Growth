@@ -448,3 +448,4 @@ Please refer to the `read.txt` file in each folder for specific instructions on 
 | 212 | 3/10/2025 | https://leetcode.com/problems/buy-two-chocolates/description/ |
 | 213 | 6/10/2025 | https://leetcode.com/problems/furthest-point-from-origin/description/ |
 | 214 | 7/10/2025 | https://leetcode.com/problems/number-of-changing-keys/description/ |
+| 215 | 8/10/2025 | https://leetcode.com/problems/total-distance-traveled/description/ |
