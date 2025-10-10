@@ -450,3 +450,9 @@ Please refer to the `read.txt` file in each folder for specific instructions on 
 | 214 | 7/10/2025 | https://leetcode.com/problems/number-of-changing-keys/description/ |
 | 215 | 8/10/2025 | https://leetcode.com/problems/total-distance-traveled/description/ |
 | 216 | 9/10/2025 | https://leetcode.com/problems/utf-8-validation/description/ |
+
+## Week-44(Random)
+
+| Day | Date      | Problem                                               |
+| --- | --------- | ----------------------------------------------------- |
+| 217 | 10/10/2025 | https://leetcode.com/problems/article-views-i/description/ |
