@@ -456,3 +456,4 @@ Please refer to the `read.txt` file in each folder for specific instructions on 
 | Day | Date      | Problem                                               |
 | --- | --------- | ----------------------------------------------------- |
 | 217 | 10/10/2025 | https://leetcode.com/problems/article-views-i/description/ |
+| 218 | 13/10/2025 | https://leetcode.com/problems/simplify-path/description/ |
