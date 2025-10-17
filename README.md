@@ -460,3 +460,9 @@ Please refer to the `read.txt` file in each folder for specific instructions on 
 | 219 | 14/10/2025 | https://leetcode.com/problems/perfect-squares/description/ |
 | 220 | 15/10/2025 | https://leetcode.com/problems/cousins-in-binary-tree/description/ |
 | 221 | 16/10/2025 | https://leetcode.com/problems/arithmetic-slices/description/ |
+
+## Week-45(Random)
+
+| Day | Date      | Problem                                               |
+| --- | --------- | ----------------------------------------------------- |
+| 222 | 17/10/2025 | https://leetcode.com/problems/day-of-the-year/description/ |
