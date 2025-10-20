@@ -466,3 +466,4 @@ Please refer to the `read.txt` file in each folder for specific instructions on 
 | Day | Date      | Problem                                               |
 | --- | --------- | ----------------------------------------------------- |
 | 222 | 17/10/2025 | https://leetcode.com/problems/day-of-the-year/description/ |
+| 223 | 20/10/2025 | https://leetcode.com/problems/lemonade-change/description/ |
