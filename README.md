@@ -469,3 +469,4 @@ Please refer to the `read.txt` file in each folder for specific instructions on 
 | 223 | 20/10/2025 | https://leetcode.com/problems/lemonade-change/description/ |
 | 224 | 21/10/2025 | https://leetcode.com/problems/find-winner-on-a-tic-tac-toe-game/description/ |
 | 225 | 22/10/2025 | https://leetcode.com/problems/integer-break/description/ |
+| 226 | 23/10/2025 | https://leetcode.com/problems/get-maximum-in-generated-array/description/ |
