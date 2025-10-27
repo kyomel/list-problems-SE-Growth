@@ -470,3 +470,9 @@ Please refer to the `read.txt` file in each folder for specific instructions on 
 | 224 | 21/10/2025 | https://leetcode.com/problems/find-winner-on-a-tic-tac-toe-game/description/ |
 | 225 | 22/10/2025 | https://leetcode.com/problems/integer-break/description/ |
 | 226 | 23/10/2025 | https://leetcode.com/problems/get-maximum-in-generated-array/description/ |
+
+## Week-46(Random)
+
+| Day | Date      | Problem                                               |
+| --- | --------- | ----------------------------------------------------- |
+| 227 | 27/10/2025 | https://leetcode.com/problems/odd-even-linked-list/description/ |
