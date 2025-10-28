@@ -476,3 +476,4 @@ Please refer to the `read.txt` file in each folder for specific instructions on 
 | Day | Date      | Problem                                               |
 | --- | --------- | ----------------------------------------------------- |
 | 227 | 27/10/2025 | https://leetcode.com/problems/odd-even-linked-list/description/ |
+| 228 | 28/10/2025 | https://leetcode.com/problems/destination-city/description/ |
