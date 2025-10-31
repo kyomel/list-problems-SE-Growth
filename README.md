@@ -479,3 +479,4 @@ Please refer to the `read.txt` file in each folder for specific instructions on 
 | 228 | 28/10/2025 | https://leetcode.com/problems/destination-city/description/ |
 | 229 | 29/10/2025 | https://leetcode.com/problems/crawler-log-folder/description/ |
 | 230 | 30/10/2025 | https://leetcode.com/problems/binary-prefix-divisible-by-5/description/ |
+| 231 | 31/10/2025 | https://leetcode.com/problems/132-pattern/description/ |
