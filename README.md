@@ -480,3 +480,9 @@ Please refer to the `read.txt` file in each folder for specific instructions on 
 | 229 | 29/10/2025 | https://leetcode.com/problems/crawler-log-folder/description/ |
 | 230 | 30/10/2025 | https://leetcode.com/problems/binary-prefix-divisible-by-5/description/ |
 | 231 | 31/10/2025 | https://leetcode.com/problems/132-pattern/description/ |
+
+## Week-47(Random)
+
+| Day | Date      | Problem                                               |
+| --- | --------- | ----------------------------------------------------- |
+| 232 | 3/11/2025 | https://leetcode.com/problems/rotate-image/description/ |
