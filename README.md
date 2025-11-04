@@ -486,3 +486,4 @@ Please refer to the `read.txt` file in each folder for specific instructions on 
 | Day | Date      | Problem                                               |
 | --- | --------- | ----------------------------------------------------- |
 | 232 | 3/11/2025 | https://leetcode.com/problems/rotate-image/description/ |
+| 233 | 4/11/2025 | https://leetcode.com/problems/find-mode-in-binary-search-tree/description/ |
