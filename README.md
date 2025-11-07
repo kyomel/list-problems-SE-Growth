@@ -488,3 +488,5 @@ Please refer to the `read.txt` file in each folder for specific instructions on 
 | 232 | 3/11/2025 | https://leetcode.com/problems/rotate-image/description/ |
 | 233 | 4/11/2025 | https://leetcode.com/problems/find-mode-in-binary-search-tree/description/ |
 | 234 | 5/11/2025 | https://leetcode.com/problems/remove-outermost-parentheses/description/ |
+| 235 | 6/11/2025 | https://leetcode.com/problems/reformat-date/description/ |
+| 236 | 7/11/2025 | https://leetcode.com/problems/largest-number/description/ |
