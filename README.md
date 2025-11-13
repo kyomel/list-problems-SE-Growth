@@ -498,3 +498,4 @@ Please refer to the `read.txt` file in each folder for specific instructions on 
 | 237 | 10/11/2025 | https://leetcode.com/problems/range-sum-of-bst/description/ |
 | 238 | 11/11/2025 | https://leetcode.com/problems/binary-tree-level-order-traversal/description/ |
 | 239 | 12/11/2025 | https://leetcode.com/problems/can-place-flowers/description/ |
+| 240 | 13/11/2025 | https://leetcode.com/problems/power-of-three/description/ |
