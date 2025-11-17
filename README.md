@@ -500,3 +500,9 @@ Please refer to the `read.txt` file in each folder for specific instructions on 
 | 239 | 12/11/2025 | https://leetcode.com/problems/can-place-flowers/description/ |
 | 240 | 13/11/2025 | https://leetcode.com/problems/power-of-three/description/ |
 | 241 | 14/11/2025 | https://leetcode.com/problems/different-ways-to-add-parentheses/description/ |
+
+## Week-49(Random)
+
+| Day | Date      | Problem                                               |
+| --- | --------- | ----------------------------------------------------- |
+| 242 | 17/11/2025 | https://leetcode.com/problems/restore-ip-addresses/description/ |
