@@ -506,3 +506,4 @@ Please refer to the `read.txt` file in each folder for specific instructions on 
 | Day | Date      | Problem                                               |
 | --- | --------- | ----------------------------------------------------- |
 | 242 | 17/11/2025 | https://leetcode.com/problems/restore-ip-addresses/description/ |
+| 243 | 18/11/2025 | https://leetcode.com/problems/license-key-formatting/description/ |
