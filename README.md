@@ -509,3 +509,4 @@ Please refer to the `read.txt` file in each folder for specific instructions on 
 | 243 | 18/11/2025 | https://leetcode.com/problems/license-key-formatting/description/ |
 | 244 | 19/11/2025 | https://leetcode.com/problems/hamming-distance/description/ |
 | 245 | 20/11/2025 | https://leetcode.com/problems/flipping-an-image/description/ |
+| 246 | 21/11/2025 | https://leetcode.com/problems/bulb-switcher/description/ |
