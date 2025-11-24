@@ -510,3 +510,9 @@ Please refer to the `read.txt` file in each folder for specific instructions on 
 | 244 | 19/11/2025 | https://leetcode.com/problems/hamming-distance/description/ |
 | 245 | 20/11/2025 | https://leetcode.com/problems/flipping-an-image/description/ |
 | 246 | 21/11/2025 | https://leetcode.com/problems/bulb-switcher/description/ |
+
+## Week-50(Random)
+
+| Day | Date      | Problem                                               |
+| --- | --------- | ----------------------------------------------------- |
+| 247 | 24/11/2025 | https://leetcode.com/problems/surrounded-regions/description/ |
