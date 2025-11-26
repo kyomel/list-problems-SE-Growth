@@ -517,3 +517,4 @@ Please refer to the `read.txt` file in each folder for specific instructions on 
 | --- | --------- | ----------------------------------------------------- |
 | 247 | 24/11/2025 | https://leetcode.com/problems/surrounded-regions/description/ |
 | 248 | 25/11/2025 | https://leetcode.com/problems/design-hashset/description/ |
+| 249 | 26/11/2025 | https://leetcode.com/problems/leaf-similar-trees/description/ |
