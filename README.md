@@ -520,3 +520,9 @@ Please refer to the `read.txt` file in each folder for specific instructions on 
 | 249 | 26/11/2025 | https://leetcode.com/problems/leaf-similar-trees/description/ |
 | 250 | 27/11/2025 | https://leetcode.com/problems/text-justification/description/ |
 | 251 | 28/11/2025 | https://leetcode.com/problems/pacific-atlantic-water-flow/description/ |
+
+## Week-51(Random)
+
+| Day | Date      | Problem                                               |
+| --- | --------- | ----------------------------------------------------- |
+| 252 | 1/12/2025 | https://leetcode.com/problems/edit-distance/description/ |
