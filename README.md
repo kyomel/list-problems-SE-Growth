@@ -526,3 +526,4 @@ Please refer to the `read.txt` file in each folder for specific instructions on 
 | Day | Date      | Problem                                               |
 | --- | --------- | ----------------------------------------------------- |
 | 252 | 1/12/2025 | https://leetcode.com/problems/edit-distance/description/ |
+| 253 | 2/12/2025 | https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/description/ |
