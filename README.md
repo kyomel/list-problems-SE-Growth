@@ -529,3 +529,4 @@ Please refer to the `read.txt` file in each folder for specific instructions on 
 | 253 | 2/12/2025 | https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/description/ |
 | 254 | 3/12/2025 | https://leetcode.com/problems/water-bottles/ |
 | 255 | 4/12/2025 | https://leetcode.com/problems/find-the-pivot-integer/description/ |
+| 256 | 5/12/2025 | https://leetcode.com/problems/jump-game/description/ |
