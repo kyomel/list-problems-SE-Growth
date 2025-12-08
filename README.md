@@ -530,3 +530,9 @@ Please refer to the `read.txt` file in each folder for specific instructions on 
 | 254 | 3/12/2025 | https://leetcode.com/problems/water-bottles/ |
 | 255 | 4/12/2025 | https://leetcode.com/problems/find-the-pivot-integer/description/ |
 | 256 | 5/12/2025 | https://leetcode.com/problems/jump-game/description/ |
+
+## Week-52(Random)
+
+| Day | Date      | Problem                                               |
+| --- | --------- | ----------------------------------------------------- |
+| 257 | 8/12/2025 | https://leetcode.com/problems/rotate-array/description/ |
