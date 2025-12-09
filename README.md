@@ -536,3 +536,4 @@ Please refer to the `read.txt` file in each folder for specific instructions on 
 | Day | Date      | Problem                                               |
 | --- | --------- | ----------------------------------------------------- |
 | 257 | 8/12/2025 | https://leetcode.com/problems/rotate-array/description/ |
+| 258 | 9/12/2025 | https://leetcode.com/problems/maximum-69-number/description/ |
