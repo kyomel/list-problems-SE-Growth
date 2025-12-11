@@ -538,3 +538,4 @@ Please refer to the `read.txt` file in each folder for specific instructions on 
 | 257 | 8/12/2025 | https://leetcode.com/problems/rotate-array/description/ |
 | 258 | 9/12/2025 | https://leetcode.com/problems/maximum-69-number/description/ |
 | 259 | 10/12/2025 | https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/description/ |
+| 260 | 11/12/2025 | https://leetcode.com/problems/minimum-time-visiting-all-points/description/ |
