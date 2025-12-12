@@ -539,3 +539,4 @@ Please refer to the `read.txt` file in each folder for specific instructions on 
 | 258 | 9/12/2025 | https://leetcode.com/problems/maximum-69-number/description/ |
 | 259 | 10/12/2025 | https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/description/ |
 | 260 | 11/12/2025 | https://leetcode.com/problems/minimum-time-visiting-all-points/description/ |
+| 261 | 12/12/2025 | https://leetcode.com/problems/count-numbers-with-unique-digits/description/ |
