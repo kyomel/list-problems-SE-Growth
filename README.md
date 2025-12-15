@@ -540,3 +540,9 @@ Please refer to the `read.txt` file in each folder for specific instructions on 
 | 259 | 10/12/2025 | https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/description/ |
 | 260 | 11/12/2025 | https://leetcode.com/problems/minimum-time-visiting-all-points/description/ |
 | 261 | 12/12/2025 | https://leetcode.com/problems/count-numbers-with-unique-digits/description/ |
+
+## Week-53(Random)
+
+| Day | Date      | Problem                                               |
+| --- | --------- | ----------------------------------------------------- |
+| 262 | 13/12/2025 | https://leetcode.com/problems/water-and-jug-problem/description/ |
