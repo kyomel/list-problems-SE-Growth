@@ -545,4 +545,5 @@ Please refer to the `read.txt` file in each folder for specific instructions on 
 
 | Day | Date      | Problem                                               |
 | --- | --------- | ----------------------------------------------------- |
-| 262 | 13/12/2025 | https://leetcode.com/problems/water-and-jug-problem/description/ |
+| 262 | 15/12/2025 | https://leetcode.com/problems/water-and-jug-problem/description/ |
+| 263 | 16/12/2025 | https://leetcode.com/problems/calculate-digit-sum-of-a-string/description/ |
