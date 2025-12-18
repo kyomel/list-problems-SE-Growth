@@ -548,3 +548,4 @@ Please refer to the `read.txt` file in each folder for specific instructions on 
 | 262 | 15/12/2025 | https://leetcode.com/problems/water-and-jug-problem/description/ |
 | 263 | 16/12/2025 | https://leetcode.com/problems/calculate-digit-sum-of-a-string/description/ |
 | 264 | 17/12/2025 | https://leetcode.com/problems/time-needed-to-buy-tickets/description/ |
+| 265 | 18/12/2025 | https://leetcode.com/problems/rank-transform-of-an-array/description/ |
