@@ -550,3 +550,9 @@ Please refer to the `read.txt` file in each folder for specific instructions on 
 | 264 | 17/12/2025 | https://leetcode.com/problems/time-needed-to-buy-tickets/description/ |
 | 265 | 18/12/2025 | https://leetcode.com/problems/rank-transform-of-an-array/description/ |
 | 266 | 19/12/2025 | https://leetcode.com/problems/delete-node-in-a-linked-list/description/ |
+
+## Week-54(Random)
+
+| Day | Date      | Problem                                               |
+| --- | --------- | ----------------------------------------------------- |
+| 267 | 22/12/2025 | https://leetcode.com/problems/super-ugly-number/description/ |
