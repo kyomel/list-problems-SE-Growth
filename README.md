@@ -557,3 +557,4 @@ Please refer to the `read.txt` file in each folder for specific instructions on 
 | --- | --------- | ----------------------------------------------------- |
 | 267 | 22/12/2025 | https://leetcode.com/problems/super-ugly-number/description/ |
 | 268 | 23/12/2025 | https://leetcode.com/problems/truncate-sentence/description/ |
+| 269 | 24/12/2025 | https://leetcode.com/problems/count-operations-to-obtain-zero/description/ |
