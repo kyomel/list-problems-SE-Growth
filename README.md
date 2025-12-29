@@ -560,3 +560,9 @@ Please refer to the `read.txt` file in each folder for specific instructions on 
 | 269 | 24/12/2025 | https://leetcode.com/problems/count-operations-to-obtain-zero/description/ |
 | 270 | 25/12/2025 | https://leetcode.com/problems/rings-and-rods/description/ |
 | 271 | 26/12/2025 | https://leetcode.com/problems/evaluate-division/description/ |
+
+## Week-55(Random)
+
+| Day | Date      | Problem                                               |
+| --- | --------- | ----------------------------------------------------- |
+| 272 | 29/12/2025 | https://leetcode.com/problems/mini-parser/description/ |
