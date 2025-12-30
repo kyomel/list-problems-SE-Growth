@@ -566,3 +566,4 @@ Please refer to the `read.txt` file in each folder for specific instructions on 
 | Day | Date      | Problem                                               |
 | --- | --------- | ----------------------------------------------------- |
 | 272 | 29/12/2025 | https://leetcode.com/problems/mini-parser/description/ |
+| 273 | 30/12/2025 | https://leetcode.com/problems/generate-a-string-with-characters-that-have-odd-counts/description/ |
