@@ -569,3 +569,4 @@ Please refer to the `read.txt` file in each folder for specific instructions on 
 | 273 | 30/12/2025 | https://leetcode.com/problems/generate-a-string-with-characters-that-have-odd-counts/description/ |
 | 274 | 31/12/2025 | https://leetcode.com/problems/day-of-the-week/description/ |
 | 275 | 1/1/2026 | https://leetcode.com/problems/frog-jump/description/ |
+| 276 | 2/1/2026 | https://leetcode.com/problems/decode-the-message/description/ |
