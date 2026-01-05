@@ -570,3 +570,9 @@ Please refer to the `read.txt` file in each folder for specific instructions on 
 | 274 | 31/12/2025 | https://leetcode.com/problems/day-of-the-week/description/ |
 | 275 | 1/1/2026 | https://leetcode.com/problems/frog-jump/description/ |
 | 276 | 2/1/2026 | https://leetcode.com/problems/decode-the-message/description/ |
+
+## Week-56(Random)
+
+| Day | Date      | Problem                                               |
+| --- | --------- | ----------------------------------------------------- |
+| 277 | 5/1/2026 | https://leetcode.com/problems/nth-digit/description/ |
