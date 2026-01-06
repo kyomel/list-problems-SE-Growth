@@ -576,3 +576,4 @@ Please refer to the `read.txt` file in each folder for specific instructions on 
 | Day | Date      | Problem                                               |
 | --- | --------- | ----------------------------------------------------- |
 | 277 | 5/1/2026 | https://leetcode.com/problems/nth-digit/description/ |
+| 278 | 6/1/2026 | https://leetcode.com/problems/find-the-distance-value-between-two-arrays/description/ |
