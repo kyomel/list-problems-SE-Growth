@@ -578,3 +578,4 @@ Please refer to the `read.txt` file in each folder for specific instructions on 
 | 277 | 5/1/2026 | https://leetcode.com/problems/nth-digit/description/ |
 | 278 | 6/1/2026 | https://leetcode.com/problems/find-the-distance-value-between-two-arrays/description/ |
 | 279 | 7/1/2026 | https://leetcode.com/problems/find-subarrays-with-equal-sum/description/ |
+| 280 | 8/1/2026 | https://leetcode.com/problems/cells-in-a-range-on-an-excel-sheet/description/ |
