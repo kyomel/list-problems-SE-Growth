@@ -579,3 +579,4 @@ Please refer to the `read.txt` file in each folder for specific instructions on 
 | 278 | 6/1/2026 | https://leetcode.com/problems/find-the-distance-value-between-two-arrays/description/ |
 | 279 | 7/1/2026 | https://leetcode.com/problems/find-subarrays-with-equal-sum/description/ |
 | 280 | 8/1/2026 | https://leetcode.com/problems/cells-in-a-range-on-an-excel-sheet/description/ |
+| 281 | 9/1/2026 | https://leetcode.com/problems/longest-repeating-character-replacement/description/ |
