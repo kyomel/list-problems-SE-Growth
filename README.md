@@ -580,3 +580,9 @@ Please refer to the `read.txt` file in each folder for specific instructions on 
 | 279 | 7/1/2026 | https://leetcode.com/problems/find-subarrays-with-equal-sum/description/ |
 | 280 | 8/1/2026 | https://leetcode.com/problems/cells-in-a-range-on-an-excel-sheet/description/ |
 | 281 | 9/1/2026 | https://leetcode.com/problems/longest-repeating-character-replacement/description/ |
+
+## Week-57(Random)
+
+| Day | Date      | Problem                                               |
+| --- | --------- | ----------------------------------------------------- |
+| 282 | 10/1/2026 | https://leetcode.com/problems/minesweeper/description/ |
