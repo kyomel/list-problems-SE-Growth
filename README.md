@@ -585,4 +585,5 @@ Please refer to the `read.txt` file in each folder for specific instructions on 
 
 | Day | Date      | Problem                                               |
 | --- | --------- | ----------------------------------------------------- |
-| 282 | 10/1/2026 | https://leetcode.com/problems/minesweeper/description/ |
+| 282 | 12/1/2026 | https://leetcode.com/problems/minesweeper/description/ |
+| 283 | 13/1/2026 | https://leetcode.com/problems/capitalize-the-title/description/ |
