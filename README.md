@@ -588,3 +588,4 @@ Please refer to the `read.txt` file in each folder for specific instructions on 
 | 282 | 12/1/2026 | https://leetcode.com/problems/minesweeper/description/ |
 | 283 | 13/1/2026 | https://leetcode.com/problems/capitalize-the-title/description/ |
 | 284 | 14/1/2026 | https://leetcode.com/problems/prime-in-diagonal/description/ |
+| 285 | 15/1/2026 | https://leetcode.com/problems/diagonal-traverse/description/ |
