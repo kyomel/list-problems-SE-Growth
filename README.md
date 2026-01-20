@@ -590,3 +590,9 @@ Please refer to the `read.txt` file in each folder for specific instructions on 
 | 284 | 14/1/2026 | https://leetcode.com/problems/prime-in-diagonal/description/ |
 | 285 | 15/1/2026 | https://leetcode.com/problems/diagonal-traverse/description/ |
 | 286 | 16/1/2026 | https://leetcode.com/problems/beautiful-arrangement/description/ |
+
+## Week-58(Random)
+
+| Day | Date      | Problem                                               |
+| --- | --------- | ----------------------------------------------------- |
+| 287 | 17/1/2026 | https://leetcode.com/problems/check-distances-between-same-letters/description/ |
