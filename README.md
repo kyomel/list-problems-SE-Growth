@@ -589,7 +589,7 @@ Please refer to the `read.txt` file in each folder for specific instructions on 
 | 283 | 13/1/2026 | https://leetcode.com/problems/capitalize-the-title/description/ |
 | 284 | 14/1/2026 | https://leetcode.com/problems/prime-in-diagonal/description/ |
 | 285 | 15/1/2026 | https://leetcode.com/problems/diagonal-traverse/description/ |
-| 286 | 16/1/2026 | https://leetcode.com/problems/beautiful-arrangement/description/ |
+| 286 | 19/1/2026 | https://leetcode.com/problems/beautiful-arrangement/description/ |
 
 ## Week-58(Random)
 
