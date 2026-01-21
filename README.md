@@ -595,4 +595,5 @@ Please refer to the `read.txt` file in each folder for specific instructions on 
 
 | Day | Date      | Problem                                               |
 | --- | --------- | ----------------------------------------------------- |
-| 287 | 17/1/2026 | https://leetcode.com/problems/check-distances-between-same-letters/description/ |
+| 287 | 20/1/2026 | https://leetcode.com/problems/check-distances-between-same-letters/description/ |
+| 288 | 21/1/2026 | https://leetcode.com/problems/minimum-number-of-flips-to-reverse-binary-string/description/ |
