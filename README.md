@@ -599,3 +599,4 @@ Please refer to the `read.txt` file in each folder for specific instructions on 
 | 288 | 21/1/2026 | https://leetcode.com/problems/minimum-number-of-flips-to-reverse-binary-string/description/ |
 | 289 | 22/1/2026 | https://leetcode.com/problems/merge-similar-items/description/ |
 | 290 | 23/1/2026 | https://leetcode.com/problems/total-hamming-distance/description/ |
+| 291 | 26/1/2026 | https://leetcode.com/problems/number-of-boomerangs/description/ |
