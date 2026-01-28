@@ -606,3 +606,4 @@ Please refer to the `read.txt` file in each folder for specific instructions on 
 | Day | Date      | Problem                                               |
 | --- | --------- | ----------------------------------------------------- |
 | 292 | 27/1/2026 | https://leetcode.com/problems/three-divisors/description/ |
+| 293 | 28/1/2026 | https://leetcode.com/problems/goal-parser-interpretation/description/ |
