@@ -607,3 +607,4 @@ Please refer to the `read.txt` file in each folder for specific instructions on 
 | --- | --------- | ----------------------------------------------------- |
 | 292 | 27/1/2026 | https://leetcode.com/problems/three-divisors/description/ |
 | 293 | 28/1/2026 | https://leetcode.com/problems/goal-parser-interpretation/description/ |
+| 294 | 29/1/2026 | https://leetcode.com/problems/sort-the-people/description/ |
