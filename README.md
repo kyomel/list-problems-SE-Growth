@@ -611,3 +611,9 @@ Please refer to the `read.txt` file in each folder for specific instructions on 
 | 295 | 30/1/2026 | https://leetcode.com/problems/can-i-win/description/ |
 | 296 | 2/2/2026 | https://leetcode.com/problems/matchsticks-to-square/description/ |
 
+## Week-59(Random)
+
+| Day | Date      | Problem                                               |
+| --- | --------- | ----------------------------------------------------- |
+| 297 | 3/2/2026 | https://leetcode.com/problems/monotonic-array/description/ |
+
