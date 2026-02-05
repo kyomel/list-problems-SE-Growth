@@ -617,4 +617,5 @@ Please refer to the `read.txt` file in each folder for specific instructions on 
 | --- | --------- | ----------------------------------------------------- |
 | 297 | 3/2/2026 | https://leetcode.com/problems/monotonic-array/description/ |
 | 298 | 4/2/2026 | https://leetcode.com/problems/thousand-separator/description/ |
+| 299 | 5/2/2026 | https://leetcode.com/problems/two-out-of-three/description/ |
 
